@@ -1,0 +1,9 @@
+[package]
+name = "filechecker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colorize = "0.1.0"
+inquire = "0.7.5"
+walkdir = "2"
